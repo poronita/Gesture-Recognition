@@ -1,16 +1,16 @@
 # Gesture Recognition for Smart TVs
 
 ## Table of Contents
-* <span style="color:purple">[Objective](#objective)</span>
-* <span style="color:purple">[Background](#background)</span>
-* <span style="color:purple">[About the Data](#about-the-data)</span>
-* <span style="color:purple">[Used Technology](#used-technology)</span>
-    - <span style="color:green">[Convolutions + RNN](#convolutions--rnn)</span>
-    - <span style="color:green">[3D Convolutional Network (Conv3D)](#3d-convolutional-network-conv3d)</span>
-    - <span style="color:green">[Generators](#generators)</span>
-* <span style="color:purple">[Conclusion](#conclusion)</span>
-* <span style="color:purple">[Acknowledgment](#acknowledgment)</span>
-* <span style="color:purple">[Contact](#contact)</span>
+* [Objective](#objective)
+* [Background](#background)
+* [About the Data](#about-the-data)
+* [Used Technology](#used-technology)
+    - [Convolutions + RNN](#convolutions--rnn)
+    - [3D Convolutional Network (Conv3D)](#3d-convolutional-network-conv3d)
+    - [Generators](#generators)
+* [Conclusion](#conclusion)
+* [Acknowledgment](#acknowledgment)
+* [Contact](#contact)
 
 ## Objective
 The aim of this project is to develop a gesture recognition system for smart TVs using deep learning architectures.
@@ -45,5 +45,5 @@ I acknowledge the contribution of Professor Raghavan and Snehansu, a research en
 
 ## Contact
 For any inquiries or feedback, please contact:
-- <span style="color:purple">[Prathvi Bhatti](mailto:theprathvibhatti@gmail.com)</span>
-- <span style="color:purple">[@poronita](https://github.com/poronita)</span>
+- [Prathvi Bhatti](mailto:theprathvibhatti@gmail.com)
+- [@poronita](https://github.com/poronita)
