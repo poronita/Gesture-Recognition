@@ -24,6 +24,16 @@ The dataset comprises video recordings of hand gestures, including thumbs up, th
 - Recurrent Neural Networks (RNN)
 - 3D Convolutional Neural Networks (Conv3D)
 
+### Convolutions + RNN
+The Convolutions + RNN architecture involves passing video frames through a Convolutional Neural Network (CNN) to extract features, followed by feeding the sequence of feature vectors into a Recurrent Neural Network (RNN) for temporal analysis. This architecture is effective for processing sequential data like videos.
+
+### 3D Convolutional Network (Conv3D)
+A 3D Convolutional Network (Conv3D) extends 2D convolutions to process 3D data, such as video sequences. It operates by convolving filters in three dimensions (x, y, and z), making it suitable for capturing spatiotemporal features in videos.
+
+### Generators
+Generators are essential for creating data pipelines in deep learning projects. They allow for the efficient feeding of data to models in batches. In this project, custom generators are used to preprocess batches of videos, including steps like cropping, resizing, and normalization, before feeding them into the model during training.
+
+
 ## Acknowledgment
 I acknowledge the contribution of Professor Raghavan and Snehansu, a research engineer at American Express, for introducing the problem statement and providing valuable guidance throughout the project. I also extend my gratitude to Upgrade Academy for their support and resources.
 
