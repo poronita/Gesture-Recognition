@@ -33,6 +33,9 @@ A 3D Convolutional Network (Conv3D) extends 2D convolutions to process 3D data, 
 ### Generators
 Generators are essential for creating data pipelines in deep learning projects. They allow for the efficient feeding of data to models in batches. In this project, custom generators are used to preprocess batches of videos, including steps like cropping, resizing, and normalization, before feeding them into the model during training.
 
+## Conclusion
+In this project, we developed a gesture recognition system for smart TVs using deep learning architectures, specifically Convolutions + RNN and Conv3D. By leveraging these technologies and custom generators, we achieved accurate recognition of hand gestures, enabling users to control their TVs seamlessly without the need for traditional remotes.
+
 
 ## Acknowledgment
 I acknowledge the contribution of Professor Raghavan and Snehansu, a research engineer at American Express, for introducing the problem statement and providing valuable guidance throughout the project. I also extend my gratitude to Upgrade Academy for their support and resources.
