@@ -1,5 +1,13 @@
 # Gesture Recognition for Smart TVs
 
+## Table of Contents
+1. [Aim/Objective](#aim-objective)
+2. [Background](#background)
+3. [About the Data](#about-the-data)
+4. [Used Technology](#used-technology)
+5. [Acknowledgment](#acknowledgment)
+6. [Contact](#contact)
+
 ## Aim/Objective
 The aim of this project is to develop a gesture recognition system for smart TVs using deep learning architectures.
 
@@ -22,5 +30,4 @@ I acknowledge the contribution of Professor Raghavan and Snehansu, a research en
 ## Contact
 For any inquiries or feedback, please contact:
 - [Prathvi Bhatti](mailto:theprathvibhatti@gmail.com)
-- [@poronita](https://github.com/poronita) 
-
+- [@poronita](https://github.com/poronita)
