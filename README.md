@@ -1,16 +1,16 @@
 # Gesture Recognition for Smart TVs
 
 ## Table of Contents
-[Objective](#aim-objective)
-[Background](#background)
-[About the Data](#about-the-data)
-[Used Technology](#used-technology)
+* [Objective](#aim-objective)
+* [Background](#background)
+* [About the Data](#about-the-data)
+* [Used Technology](#used-technology)
     - [Convolutions + RNN](#convolutions--rnn)
     - [3D Convolutional Network (Conv3D)](#3d-convolutional-network-conv3d)
     - [Generators](#generators)
-[Conclusion](#conclusion)
-[Acknowledgment](#acknowledgment)
-[Contact](#contact)
+* [Conclusion](#conclusion)
+* [Acknowledgment](#acknowledgment)
+* [Contact](#contact)
 
 ## Objective
 The aim of this project is to develop a gesture recognition system for smart TVs using deep learning architectures.
