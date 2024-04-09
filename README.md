@@ -1,16 +1,16 @@
 # Gesture Recognition for Smart TVs
 
 ## Table of Contents
-* [Objective](#aim-objective)
-* [Background](#background)
-* [About the Data](#about-the-data)
-* [Used Technology](#used-technology)
-    - [Convolutions + RNN](#convolutions--rnn)
-    - [3D Convolutional Network (Conv3D)](#3d-convolutional-network-conv3d)
-    - [Generators](#generators)
-* [Conclusion](#conclusion)
-* [Acknowledgment](#acknowledgment)
-* [Contact](#contact)
+* <span style="color:blue">[Objective](#aim-objective)</span>
+* <span style="color:blue">[Background](#background)</span>
+* <span style="color:blue">[About the Data](#about-the-data)</span>
+* <span style="color:blue">[Used Technology](#used-technology)</span>
+    - <span style="color:green">[Convolutions + RNN](#convolutions--rnn)</span>
+    - <span style="color:green">[3D Convolutional Network (Conv3D)](#3d-convolutional-network-conv3d)</span>
+    - <span style="color:green">[Generators](#generators)</span>
+* <span style="color:blue">[Conclusion](#conclusion)</span>
+* <span style="color:blue">[Acknowledgment](#acknowledgment)</span>
+* <span style="color:blue">[Contact](#contact)</span>
 
 ## Objective
 The aim of this project is to develop a gesture recognition system for smart TVs using deep learning architectures.
@@ -40,11 +40,10 @@ Generators are essential for creating data pipelines in deep learning projects. 
 ## Conclusion
 In this project, we developed a gesture recognition system for smart TVs using deep learning architectures, specifically Convolutions + RNN and Conv3D. By leveraging these technologies and custom generators, we achieved accurate recognition of hand gestures, enabling users to control their TVs seamlessly without the need for traditional remotes.
 
-
 ## Acknowledgment
 I acknowledge the contribution of Professor Raghavan and Snehansu, a research engineer at American Express, for introducing the problem statement and providing valuable guidance throughout the project. I also extend my gratitude to Upgrade Academy for their support and resources.
 
 ## Contact
 For any inquiries or feedback, please contact:
-- [Prathvi Bhatti](mailto:theprathvibhatti@gmail.com)
-- [@poronita](https://github.com/poronita)
+- <span style="color:blue">[Prathvi Bhatti](mailto:theprathvibhatti@gmail.com)</span>
+- <span style="color:blue">[@poronita](https://github.com/poronita)</span>
